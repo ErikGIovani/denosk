@@ -14,7 +14,7 @@
 <div align="center">
    <h2>Installation</h2>
    
-   ```bash
+   ```console
    deno install -A --unstable -n denosk --no-check https://deno.land/x/denosk/cli.ts
    ```
 </div>
@@ -29,17 +29,17 @@ The permissions that Denosk uses are **--allow-read** and **--allow-run**.
    <h2>Usage</h2>
    
 To display help on how to use Denosk.
-```bash
+```console
 denosk help
 ```
 
 To display all tasks from your deno.json, deno.jsonc or run.json file if you are using Trex scripts.
-```bash
+```console
 denosk tasks
 ```
 
 To execute a task found in your deno.json, deno.jsonc or run.json file if you are using Trex, with Denosk just pass the name of the task to be executed after the word denosk as in the following example.
-```bash
+```console
 denosk start
 ```
 </div>
