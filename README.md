@@ -7,10 +7,6 @@
    Denosk is a task runner for Deno, if you come from Node JS with the Yarn package manager and you miss being able to run a script with **yarn dev** or **yarn start** and you want to avoid writing commands like **deno task dev** or **trex run dev** then Denosk is for you.
 
    **Also with Denosk you can also create tasks from the terminal.**
-
-   <a href="https://www.buymeacoffee.com/erikgiovani" target="_blank">
-      <img width="20%" src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png">
-   </a>
 </div>
 
 <div align="center">
