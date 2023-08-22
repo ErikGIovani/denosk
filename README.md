@@ -57,3 +57,11 @@ dn task dev "deno run --watch main.ts"
    
 Denosk is born from a combination between the word **Deno** and the word **Task**, it's that simple.
 </div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Erik Giovani**
+
+</div>
